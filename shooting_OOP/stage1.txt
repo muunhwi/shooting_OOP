@@ -1,0 +1,11 @@
+#begin
+enemy_X
+enemy_T
+enemy_#
+#end
+T               X X X X 
+                                   ####          X
+X
+                                                         X
+
+                              # # # # #               

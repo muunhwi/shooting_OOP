@@ -1,0 +1,14 @@
+#begin
+enemy_X
+enemy_T
+enemy_#
+enemy_O
+enemy_Q
+#end
+X X X X X X X X X X X X X X X X X X X X X X X X X X X
+ Q Q Q Q Q Q Q Q Q Q QQ                        Q Q  Q
+O O O O O O O O O O O O O                  O O O O
+T T T T T T T T T T T T T T T TT T T T T T  TT T T T T T 
+### ### ###                         ###########
+### ### ###                          ##########
+### ### ###                          ########## 
